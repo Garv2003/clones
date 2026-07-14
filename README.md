@@ -14,5 +14,8 @@ UI clones of popular products, built to practice layout, styling, and app struct
 | Netflix | Vanilla JS | [`netflix`](./netflix) |
 | Youtube | Vanilla JS | [`youtube`](./youtube) |
 
+| Spotify | Vanilla JS | [`spotify`](./spotify) |
+| Google Docs | Vanilla JS | [`google-docs`](./google-docs) |
+| E-commerce Store | Vanilla JS | [`ecommerce`](./ecommerce) |
 ---
 *Consolidated archive of individual project repos, organized by category.*
